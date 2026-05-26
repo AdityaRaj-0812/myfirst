@@ -1,0 +1,2 @@
+admin|1234|10000|admin
+user1|1111|5000|common
